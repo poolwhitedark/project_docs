@@ -1,3 +1,4 @@
+
 1.cd 到上传项目的根目录下，然后初始化本地仓库，
 git init
 
@@ -15,3 +16,5 @@ git remote add origin https://github.com/bendan321/nihao.git
 
 6.push文件。
 git push -u origin master
+
+
